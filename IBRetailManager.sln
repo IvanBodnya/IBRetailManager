@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRMDataManager", "IRMDataMa
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "IRMData", "IRMData\IRMData.sqlproj", "{2727F076-24C8-498C-BDA2-245A1A2A150D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRMDesktopUI", "IRMDesktopUI\IRMDesktopUI.csproj", "{A68DE067-95B2-4969-BBAA-CFD9AC4CB5B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{2727F076-24C8-498C-BDA2-245A1A2A150D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2727F076-24C8-498C-BDA2-245A1A2A150D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2727F076-24C8-498C-BDA2-245A1A2A150D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A68DE067-95B2-4969-BBAA-CFD9AC4CB5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A68DE067-95B2-4969-BBAA-CFD9AC4CB5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A68DE067-95B2-4969-BBAA-CFD9AC4CB5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A68DE067-95B2-4969-BBAA-CFD9AC4CB5B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
